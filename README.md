@@ -1,7 +1,7 @@
 # Micheal Hao
 
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=logic-three-body&show_icons=true&theme=github_dark" width=53% />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaphlagical&hide=html,Tex&theme=github_dark&layout=compact" width=45% />
+<img src="https://github-readme-stats.vercel.app/api?username=logic-three-body&show_icons=true&theme=github_dark" width=53% />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logic-three-body&hide=html,Tex&theme=github_dark&layout=compact" width=45% />
 </p>
 
 ## Demo
