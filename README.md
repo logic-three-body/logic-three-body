@@ -1,16 +1,17 @@
-### Hi there 👋
+# Micheal Hao
 
-<!--
-**logic-three-body/logic-three-body** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p float="left">
+<img src="https://github-readme-stats.vercel.app/api?username=logic-three-body&show_icons=true&theme=github_dark" width=53% />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaphlagical&hide=html,Tex&theme=github_dark&layout=compact" width=45% />
+</p>
 
-Here are some ideas to get you started:
+## Demo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:star:Some funny stuffs are recorded in my [blog](https://www.yuque.com/6527chen/ldyt32/vc5tbo) or pinned below
+
+https://user-images.githubusercontent.com/67043073/208306799-5e843f73-525c-46c5-bc96-f4c691f6fb13.mp4
+
+## Website
+
+:house: Blog - [bittercoffee-cg](https://www.yuque.com/6527chen/ldyt32)
+
+:e-mail: E-mail - [brickium@gmail.com](mailto:brickium@gmail.com) 
