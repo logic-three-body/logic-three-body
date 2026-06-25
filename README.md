@@ -18,4 +18,4 @@ https://user-images.githubusercontent.com/67043073/208306799-5e843f73-525c-46c5-
 
 :e-mail: E-mail - [brickium@gmail.com](mailto:brickium@gmail.com) 
 
-📱: Telegram - [GFX](https://t.me/+WtUvZ2QF3nNjMGNl)
+
